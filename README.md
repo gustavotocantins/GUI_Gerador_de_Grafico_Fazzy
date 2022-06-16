@@ -12,10 +12,12 @@ A teoria dos conjuntos Fuzzy e os conceitos da lógica servem como solução par
 
 
 ### 🔧 Instalação
-####Executável
+**Executável**
+
 Para instalar a executável, basta você baixar a pasta **Executável**, coloca-la em um diretório na sua maquina e rodar o programa.
 
-####Código Fonte
+**Código Fonte**
+
 Basta você baixar o código fonte, com a pasta **img**.
 
 ## ⚙️ Funcionamento
@@ -51,4 +53,3 @@ Bibliotecas utilizadas para desenvolver o software
 * **Gustavo Tocantins** - *Desenvolvedor* - [Gustavo Tocantins](https://www.instagram.com/gustavo.tocantinss/)
 * **Kadu Naoki** - *Trabalho inicial com o Gráfico* - [Kadu Naoki Ishikawa](https://www.instagram.com/knaokiiii/)
 * **Dr. Marcus Pinto da Costa da Rocha** - *Orientador* - [Dr. Marcus Pinto da Costa da Rocha]
-* 
