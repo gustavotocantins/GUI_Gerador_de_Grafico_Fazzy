@@ -12,13 +12,14 @@ A teoria dos conjuntos Fuzzy e os conceitos da lógica servem como solução par
 
 
 ### 🔧 Instalação
-#### Executavel
-Para instalar a executavel, basta você baixar a pasta **Executavel**, coloca-la em um diretorio na sua maquina e rodar o programa
+####Executável
+Para instalar a executável, basta você baixar a pasta **Executável**, coloca-la em um diretório na sua maquina e rodar o programa.
 
-#### Código Fonte
-Basta você baixar o código fonte, juntamente com a pasta img.
+####Código Fonte
+Basta você baixar o código fonte, com a pasta **img**.
 
-## ⚙️ Executando os testes
+## ⚙️ Funcionamento
+
 
 Explicar como executar os testes automatizados para este sistema.
 
@@ -40,11 +41,10 @@ Dar exemplos
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Bibliotecas utilizadas para desenvolver o software
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Tkinter](https://docs.python.org/pt-br/3/library/tk.html) - Tkinter é uma biblioteca da linguagem Python que acompanha a instalação padrão e permite desenvolver interfaces gráficas.
+* [Matplotlib](https://matplotlib.org/stable/index.html) - Matplotlib é uma biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python e sua extensão de matemática NumPy.
 
 ## ✒️ Autores
 
