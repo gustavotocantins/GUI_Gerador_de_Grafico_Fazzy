@@ -1,6 +1,9 @@
 # GERADOR DE GRÁFICO DE CUSTO FAZZY
 O software gera gráficos de custo do Sistema de Inferência Fuzzy em formato de Trapézio.
 
+
+<img src="https://github.com/gustavotocantins/GUI_Gerador_de_Grafico_Fazzy/blob/main/imagens/Captura%20de%20tela%202022-06-16%20104109.png">
+
 ## 🚀 Introdução
 
 A teoria dos conjuntos Fuzzy e os conceitos da lógica servem como solução para sistemas não lineares, referentes a problemas de controle, graças a seus princípios de incerteza e habilidade em inferir conclusões e gerar respostas baseadas em informações imprecisas.
@@ -22,24 +25,12 @@ Basta você baixar o código fonte, com a pasta **img**.
 
 ## ⚙️ Funcionamento
 
+O software funciona basicamente colocandos os valores dos pontos principais do trapézio, adicionando valor crisp e o titulo do gráfico.
 
-Explicar como executar os testes automatizados para este sistema.
+### 🔩 Demonstração do gráfico
 
-### 🔩 Analise os testes de ponta a ponta
+<img src="https://github.com/gustavotocantins/GUI_Gerador_de_Grafico_Fazzy/blob/main/imagens/Captura%20de%20tela%202022-06-16%20102237.png">
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## 🛠️ Construído com
 
